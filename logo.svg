@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <g>
+    <circle cx="100" cy="100" r="90" fill="darkblue"/>
+    <path d="M100,10 a90,90 0 0,1 75,35 a80,80 0 1,0 -150,0 a90,90 0 0,1 75,-35" fill="blue"/>
+    <text x="100" y="150" font-size="20" text-anchor="middle" fill="yellow" font-family="Arial" transform="translate(0, 0) rotate(-15 100,150)">MK</text>
+    <path d="M130,70 L160,110 L120,110 L130,140 L100,100 L130,70" fill="yellow"/>
+  </g>
+</svg>
